@@ -54,7 +54,6 @@ export default {
             showPassword: false
         };
     },
-
     methods: {
         login() {
             alert("Login Success")

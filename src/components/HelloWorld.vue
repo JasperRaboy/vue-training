@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Registration Form</h1>
+    <h2>Registration Form</h2>
 
     <input
       type="text"
@@ -23,3 +23,8 @@ export default {
   }
 }
 </script>
+<style scoped>
+h2{
+  font-size: 100px;
+}
+</style>
